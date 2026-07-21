@@ -1,0 +1,6 @@
+{
+  "name": "Casial Global Trading",
+  "description": "Premium B2B Import & Export Platform for Agricultural Commodities, Spices & Fresh Produce",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
